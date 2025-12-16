@@ -30,4 +30,3 @@ public class SeleniumSessions {
 		
 	}
 }
-//Added test comments
