@@ -4,8 +4,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class LoginFunctions {
-	WebDriver driver;
+public class LoginFunctions extends BaseClass{
+	//WebDriver driver;
 
 		@FindBy(xpath = "//a[@data-group='men']")
 		WebElement MenTab;
